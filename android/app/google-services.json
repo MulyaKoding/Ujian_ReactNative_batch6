@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839565675496",
+    "project_id": "inputdataperson",
+    "storage_bucket": "inputdataperson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839565675496:android:8e0fc88663168ea3a7725d",
+        "android_client_info": {
+          "package_name": "com.inputdataperson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839565675496-n612u7452lceg0olnov3m4pe4f6ugif4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6de6FozguDL3MHzLat7h6ovjIPPv6k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839565675496-n612u7452lceg0olnov3m4pe4f6ugif4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
